@@ -1,0 +1,16 @@
+.vscode
+.idea
+
+.claude
+
+prompt.txt
+
+
+*.log
+
+build/
+
+
+
+
+
